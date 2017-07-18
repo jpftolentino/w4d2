@@ -1,0 +1,5 @@
+#hide settings.json from user
+settings.json
+
+#node modules
+node_modules
